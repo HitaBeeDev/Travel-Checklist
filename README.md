@@ -1,6 +1,6 @@
 ## Roam and Remember: Crafting Your Adventure Checklist
 
-### Roam and Remember is a web application built with React that helps you create and manage personalized travel checklists.
+#### Roam and Remember is a web application built with React that helps you create and manage personalized travel checklists.
 
 
 ## Features
