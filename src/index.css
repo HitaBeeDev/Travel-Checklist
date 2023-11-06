@@ -149,3 +149,48 @@ body {
   color: var(--stats-color);
   font-weight: 600;
 }
+
+@media (max-width: 767px) {
+  .app {
+    width: 20rem;
+    border-radius: 1rem;
+    padding: 0.8rem;
+  }
+
+  .title {
+    font-size: 1.2rem;
+    margin-top: 0.5rem;
+  }
+
+  .add-form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    gap: 0.1;
+    padding: 0.4rem;
+    margin: 0.5rem 0.2rem 0.5rem 0.2rem;
+  }
+
+  .form-question {
+    font-size: 0.8rem;
+  }
+
+  .form-select,
+  .form-input,
+  .form-btn {
+    width: 12rem;
+    height: 1.8rem;
+  }
+
+  .action-select {
+    width: 11.5rem;
+    font-size: 0.8rem;
+  }
+
+  .action-btn {
+    width: 5.5rem;
+    font-size: 0.8rem;
+  }
+}
